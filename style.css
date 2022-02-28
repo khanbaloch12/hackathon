@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+*{
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    /* padding: 15px; */
+    /* margin-left:20px; */
+    background-color: #0071dc;
+    color: white;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    height: 80px;
+    
+}
+.navbar ul li{
+    list-style-type: none;
+    padding-left: 20px;
+    
+}
+.input{
+    margin-left: 60px !important;
+    width: 400px !important;
+    border-radius: 35px !important;
+    border: none !important;
+    font-size: 15px;
+}
+.leftnav{
+    padding: 15px; 
+
+}
+.rightnav{
+    padding: 20px;    
+}
+.logo{
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.cart{
+    margin-left: 20px;
+}
+.leftnav ul{
+    display: flex;    
+}
+.leftnav ul li{
+    line-height: 40px;   
+}
+.rightnav ul{
+display: flex;
+}
+.div2{
+    margin-top: 50px;
+    width: 1000px;
+    margin-left: 170px;
+    border-radius: 30px;
+}
+.cardss{
+    display: flex;
+    justify-content: center;
+    margin: 40px auto 0 auto;
+}
+.card1{
+    
+    margin: 25px;
+}
+
+.card2{
+    
+    margin: 25px;
+}
+.card3{
+    
+    margin: 25px;
+}
+.cardkhera{
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
+.bodcard{
+    border: none;
+}
+.only{
+    margin-top: 15px;
+    margin-left: 45px;
+}
+.cig{
+    text-align: center;
+}
+.shig{
+    margin-top: 35px;
+    margin-left: 90px;
+}
+.mano{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.love{
+    margin: 35px;
+}
+.caroo{
+    margin-left: 35px;
+    margin-top: 30px;
+    border: none;
+    width: 90%;
+
+}
+.caroo img{
+    border-radius: 10px;
+}
+.btn{
+    border-radius: 30px;
+}
+.footer{
+    background-color: #0071dc;
+    color: white;
+    font-size: 11px;
+    /* margin-top: 15px; */
+}
+.footer ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    align-items: center;
+    
+}
+.footer ul li{
+    text-align: center;
+    margin: 5px;
+}
+.foot{
+    /* background-color: #e6f1fc; */
+    text-align: center;
+    margin-bottom: 20px;
+}
+.Feed-btn{
+    border-radius: 30px;
+    border: 1px solid black; 
+    background-color: white;
+    color: black;
+}
